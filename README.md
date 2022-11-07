@@ -3,7 +3,7 @@
 
 > The dice poker game in Python for ANSI terminals
 
-![Screenshot](https://github.com/oliverbacsi/Yahtzee/blob/main/0-main.png)
+![Screenshot](https://github.com/oliverbacsi/Yahtzee/blob/main/images/0-main.png)
 
 **Usage**:
 ```
@@ -19,7 +19,7 @@ yahtzee.py
 * After rolling the results can be written in any unoccupied cell of the score board
 * If the score board is full, the game ends. Whoever has the most points wins the game
 
-![Screenshot](https://github.com/oliverbacsi/Yahtzee/blob/main/1-help.png)
+![Screenshot](https://github.com/oliverbacsi/Yahtzee/blob/main/images/1-help.png)
 
 **Game Rules**:
 
@@ -32,7 +32,7 @@ Extra Yahtzee does not apply if the player does not have a Yahtzee yet.
 If the subtotal score of the first 6 rows of the scoreboard (number of 1's to number of 6's) adds up to at least 63, then a bonus of 35 points is added.
 At the end of the playing there is a statistics shown from all the games, based on the number of won games and number of total collected points.
 
-![Screenshot](https://github.com/oliverbacsi/Yahtzee/blob/main/2-scores.png)
+![Screenshot](https://github.com/oliverbacsi/Yahtzee/blob/main/images/2-scores.png)
 
 **Known Bugs**:
 
